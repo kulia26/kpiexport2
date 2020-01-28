@@ -2,3 +2,4 @@ typings
 *.map
 jspm_packages
 bower_components
+node_modules
