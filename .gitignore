@@ -1,5 +1,6 @@
 typings
 *.map
+*.js
 jspm_packages
 bower_components
 node_modules
