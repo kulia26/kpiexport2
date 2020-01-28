@@ -1,6 +1,6 @@
-import express from 'express';
+var express = require('express')
 const app = express();
-import appInsights from 'applicationinsights';
+var appInsights = require('applicationinsights')
 
 const env = process.env.NODE_ENV || 'development';
 const port = process.env.PORT ||
